@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chanmio1219
 - 👀 I’m interested in Media Art and AI(Deep learning).
-- 🌱 I’m currently learning processing, micro:bit and Pon.
+- 🌱 I’m currently learning processing, micro:bit and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
